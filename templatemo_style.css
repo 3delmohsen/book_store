@@ -8,8 +8,8 @@ body {
 	line-height: 1.5em;
 	font-family: Verdana, Arial, san-serif;
 	font-size: 11px;
-	color: #ffffff;
-	background: #4b4743;
+	color: #c20f25;
+	background: #08091e;
 }
 
 a:link, a:visited { color: #e6e154; text-decoration: none; font-weight: bold;} 
@@ -78,7 +78,7 @@ img {
 	width: 960px;
 	margin: 0 auto;
 	padding: 0 10px;
-	background: #1c1c1b url(images/templatemo_bg.jpg) repeat-y;
+	background: #08091e url(images/templatemo_bg.jpg) repeat-y;
 }
 
 
@@ -124,7 +124,7 @@ img {
 	height: 285px;
 	padding: 0;
 	margin: 0;
-	background: url(images/templatemo_header_bg.jpg) no-repeat;
+	background: url(images/templatemo_header_bg.png) no-repeat;
 }
 
 #templatemo_header a,a:hover {
@@ -195,13 +195,13 @@ img {
 #templatemo_content_left .templatemo_content_left_section{
 	clear: both;
 	padding-bottom: 10px;
-	border-bottom: 1px solid #2b2b2a;
+	border-bottom: 1px solid #c20f25;
 	margin-bottom: 20px;
 }
 
 .templatemo_content_left_section h1 {
 	font-size: 14px;
-	color: #cbc750;
+	color: #c20f25;
 	padding: 0 0 5px 0;
 	margin: 0 0 10px 0;
 	border-bottom: 1px dotted #cbc750;
@@ -220,7 +220,7 @@ img {
 .templatemo_content_left_section ul li a{
 	font-weight: normal;
 	text-decoration: none;
-	color: #969547;
+	color: #c20f25;
 }
 
 .templatemo_content_left_section li a:hover, .templatemo_content_left_section li .current{
